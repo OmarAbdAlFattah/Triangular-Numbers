@@ -1,0 +1,2 @@
+# Triangular-Numbers
+GeeksforGeeks practices.
